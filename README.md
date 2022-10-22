@@ -10,7 +10,7 @@ Dalam pengerjaan mini project ini, proses analisis saya bagi menjadi 3 bagian :
  2. Annual Product Category Quality Analysis
  3. Analysis of Annual Payment Type Usage
  
-Urutan pengerjaan yang saya lakukan dapat anda lihat pada link berikut : 
+Urutan pengerjaan yang saya lakukan beserta sintaksnya dapat anda lihat pada link berikut : 
 
 https://docs.google.com/document/d/1zwidTukzMU-uQYFMlBx6zb-JdX7FxH9M/edit?usp=sharing&ouid=101868940153180922983&rtpof=true&sd=true
 
