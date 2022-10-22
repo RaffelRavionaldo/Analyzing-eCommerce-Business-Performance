@@ -14,4 +14,4 @@ Urutan pengerjaan yang saya lakukan beserta sintaksnya dapat anda lihat pada lin
 
 https://docs.google.com/document/d/1zwidTukzMU-uQYFMlBx6zb-JdX7FxH9M/edit?usp=sharing&ouid=101868940153180922983&rtpof=true&sd=true
 
-Untuk proses analisis, yang saya lakukan. pembaca dapat melihatnya pada file bernama Analisis E-commerce.pdf
+Untuk proses analisis yang saya lakukan. pembaca dapat melihatnya pada file bernama Analisis E-commerce.pdf
