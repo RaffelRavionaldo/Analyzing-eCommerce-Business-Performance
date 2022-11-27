@@ -14,4 +14,4 @@ You can see the sequence of work I did along with the full syntax at the followi
 
 https://docs.google.com/document/d/1zwidTukzMU-uQYFMlBx6zb-JdX7FxH9M/edit?usp=sharing&ouid=101868940153180922983&rtpof=true&sd=true
 
-For the analysis process that I did. readers can see it in a file called Analisis E-commerce.pdf
+For the full of the analysis process that I did. readers can see it in a file called Analisis E-commerce.pdf
