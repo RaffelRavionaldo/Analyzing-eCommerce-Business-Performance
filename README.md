@@ -1,6 +1,5 @@
 # Analyzing-eCommerce-Business-Performance
  Analyzing the performance of an e-commerce company using postgreSQL
- 
 
 Disclaimer : Mini project ini saya kerjakan dalam rangka pengerjaan tugas bootcamp rakamin
  
